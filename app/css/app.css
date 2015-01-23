@@ -2,7 +2,7 @@
 
 html {
   display: none;
-  background: #e7ebf0;
+  background: url (../app/img/symphony.png);
   overflow: visible;
 }
 body {
