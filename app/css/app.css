@@ -746,7 +746,7 @@ a.tg_radio_on:hover i.icon-radio {
 
 /* Login page */
 .login_head_bg {
-  background: #2ecc71;
+  background: url(../img/symphony.png);
   height: 226px;
 }
 .login_page {
